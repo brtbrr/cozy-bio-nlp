@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode and IDE configs
+.vscode/
+.idea/
+*.swp
+
+# macOS
+.DS_Store
+
+# Logs and temp files
+*.log
+*.tmp
+*.out
+
+# Data files (keep datasets folder structure but not heavy files)
+datasets/*
+!datasets/**/README.md
+
+# Model weights / checkpoints
+*.bin
+*.pt
+*.pth
+*.h5
+*.ckpt
+
+# Outputs
+outputs/
+results/
