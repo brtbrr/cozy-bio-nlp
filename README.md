@@ -1,7 +1,6 @@
 # Cozy Bio NLP 🌱📖
 
 [![License: MIT](https://img.shields.io/badge/Code-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![License: CC BY 4.0](https://img.shields.io/badge/Materials-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 Welcome to **Cozy Bio NLP** - course on  
 **Natural Language Processing for Bioinformatics**, taught in 2025 by *Oleg Zagorulko (ITMO University)*.  
