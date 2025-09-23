@@ -6,7 +6,7 @@ Welcome to **Cozy Bio NLP** - course on
 **Natural Language Processing for Bioinformatics**, taught in 2025 by *Oleg Zagorulko (ITMO University)*.  
 
 This repository contains lectures and practices.  
-Currently only **Weeks 1-2** are available — new weeks will be added as the course progresses.  
+Currently only **Weeks 1-2** are available - new weeks will be added as the course progresses.  
 
 ---
 
