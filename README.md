@@ -6,7 +6,7 @@ Welcome to **Cozy Bio NLP** - course on
 **Natural Language Processing for Bioinformatics**, taught in 2025 by *Oleg Zagorulko (ITMO University)*.  
 
 This repository contains lectures and practices.  
-Currently only **Week 1** is available — new weeks will be added as the course progresses.  
+Currently only **Weeks 1-2** are available — new weeks will be added as the course progresses.  
 
 ---
 
@@ -14,7 +14,10 @@ Currently only **Week 1** is available — new weeks will be added as the course
 
 - **Week 1**: Introduction to NLP in Bioinformatics  
   - [Lecture](https://drive.google.com/file/d/1pTUgeVnoxCGNR64kKqBr8nWGcEsrQIOC/view?usp=sharing)  
-  - [Practice](week01_intro/cancer_prediction.ipynb)  
+  - [Practice](week01_intro/cancer_prediction.ipynb)
+- **Week 1**: Embeddings  
+  - [Lecture]()  
+  - [Practice](week02_embeddings/word2vec.ipynb)  
 
 *More weeks coming soon...*  
 
