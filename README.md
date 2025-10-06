@@ -23,7 +23,7 @@ Currently only **Weeks 1-2** are available - new weeks will be added as the cour
 - **Week 3**: Classification  
   - [Lecture]()  
   - [Practice](week03_classification/dummy_classification.ipynb)  
-- **Week 4**: Classification  
+- **Week 4**: RNN  
   - [Lecture](https://drive.google.com/file/d/1IHHv9u459bqe7K0-XQcKLghIiBKoMgpI/view?usp=sharing)  
   - [Practice](week04_rnn/text_classification_using_rnn.ipynb) 
 
