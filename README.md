@@ -7,7 +7,7 @@ Welcome to **Cozy Bio NLP** - course on
 
 This repository contains lectures and practices.  
 
-Currently only **Weeks 1-2** are available - new weeks will be added as the course progresses.  
+Currently only **Weeks 1-4** are available - new weeks will be added as the course progresses.  
 
 
 ---
